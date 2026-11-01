@@ -1,0 +1,11 @@
+trial,master_key_hex,recovered_key_hex,success,rk0_exact,rk1_exact,rk2_exact,rk0_unresolved,rk1_unresolved,rk2_unresolved,rk0_loops,rk1_loops,rk2_loops,elapsed_seconds,seed,epsilon,max_outer_loops,oracle_model
+1,19123043a2f54f8b0d27f7b198cc4d25b73a9e33484a8d7a,19123043a2f54f8b0d27f7b198cc4d25b73a9e33484a8d7a,True,True,True,True,0,0,0,1,1,1,88.459551,20261023,0.01,300,"r0:black-box;r1,r2:synthetic-intermediate-state"
+2,5b1eb38c82a3a3a5df4e77e94dc1640daedeba02e404ab49,5b1eb38c82a3a3a5df4e77e94dc1640daedeba02e404ab49,True,True,True,True,0,0,0,2,1,1,88.674992,20261023,0.01,300,"r0:black-box;r1,r2:synthetic-intermediate-state"
+3,3aafefc72dfc434ee7fee8518d42235c48c3a6f2d036080b,3aafefc72dfc434ee7fee8518d42235c48c3a6f2d036080b,True,True,True,True,0,0,0,1,1,1,87.455732,20261023,0.01,300,"r0:black-box;r1,r2:synthetic-intermediate-state"
+4,1406c6f2e09b763aa07e295c310b6aa325d6a1d0d5f183d5,1406c6f2e09b763aa07e295c310b6aa325d6a1d0d5f183d5,True,True,True,True,0,0,0,1,1,1,88.638865,20261023,0.01,300,"r0:black-box;r1,r2:synthetic-intermediate-state"
+5,50d340ed26ca52e557a77c21334708d289df64f55cddee2d,50d340ed26ca52e557a77c21334708d289df64f55cddee2d,True,True,True,True,0,0,0,1,1,1,86.157582,20261023,0.01,300,"r0:black-box;r1,r2:synthetic-intermediate-state"
+6,de7f4d298560ad267c60c6496bcfee327c94a2f9f430aa67,de7f4d298560ad267c60c6496bcfee327c94a2f9f430aa67,True,True,True,True,0,0,0,1,1,1,85.917737,20261023,0.01,300,"r0:black-box;r1,r2:synthetic-intermediate-state"
+7,75af2abb29b9629fc90720b7890b81c94d64fb6d99ae23d8,75af2abb29b9629fc90720b7890b81c94d64fb6d99ae23d8,True,True,True,True,0,0,0,1,1,1,86.268942,20261023,0.01,300,"r0:black-box;r1,r2:synthetic-intermediate-state"
+8,26172be5cf95589b23a044624754b5e554c113b1390b983b,26172be5cf95589b23a044624754b5e554c113b1390b983b,True,True,True,True,0,0,0,1,1,1,85.932523,20261023,0.01,300,"r0:black-box;r1,r2:synthetic-intermediate-state"
+9,b2ef814417654145e0e58038c1ad3050ef6b4e923d3aba0f,b2ef814417654145e0e58038c1ad3050ef6b4e923d3aba0f,True,True,True,True,0,0,0,1,1,1,85.896615,20261023,0.01,300,"r0:black-box;r1,r2:synthetic-intermediate-state"
+10,fb28af16943cd3dc289fc8857b847ef88547c6dc7c114dc3,fb28af16943cd3dc289fc8857b847ef88547c6dc7c114dc3,True,True,True,True,0,0,0,1,1,1,86.186609,20261023,0.01,300,"r0:black-box;r1,r2:synthetic-intermediate-state"
